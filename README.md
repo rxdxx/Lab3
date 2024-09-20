@@ -24,5 +24,5 @@ $ sudo apt update
 $ conda create -n cv_detection
 $ conda activate cv_detection
 $ python --version
-$python example.py
+$ python example.py
 ```
